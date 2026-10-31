@@ -20,4 +20,4 @@ The optional `recovery/` directory containing independent model rerun files is n
 
 The absolute-worst-class threshold rule in the revision differs from the original rule, which selected the class with the largest relative degradation before evaluating its absolute drop. Counts from these rules must not be treated as identical.
 
-No DOI, public release or open licence is asserted here. Contact the authors for access conditions while the repository is private.
+The repository is publicly readable. No archival DOI or open-source licence is asserted here; consult the authors concerning permissions for reuse.
